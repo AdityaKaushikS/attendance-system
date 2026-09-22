@@ -1,0 +1,16 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+main (1).py
+
+Attendance/*.csv
+StudentDetails/*.csv
+TrainingImage/*.jpg
+TrainingImageLabel/*.txt
+TrainingImageLabel/*.yml
+
+!Attendance/.gitkeep
+!StudentDetails/.gitkeep
+!TrainingImage/.gitkeep
+!TrainingImageLabel/.gitkeep
